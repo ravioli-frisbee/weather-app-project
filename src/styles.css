@@ -95,3 +95,8 @@ i.cloud-showers-big {
 span.celsius-fahrenheit-labels {
   margin-top: 5px;
 }
+
+footer {
+  margin: 80px;
+  text-align: center;
+}
