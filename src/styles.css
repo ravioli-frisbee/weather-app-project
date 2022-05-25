@@ -1,0 +1,97 @@
+input.form-control {
+  display: inline;
+}
+button.btn-outline-secondary {
+  display: inline;
+  margin-bottom: 3px;
+}
+div.container {
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  margin-top: 20px;
+  padding: 30px;
+}
+h1,
+h2,
+h3,
+h4,
+input,
+div.future-weather {
+  font-family: "Rubik", sans-serif;
+  margin: 0;
+}
+h1 {
+  display: inline;
+  font-size: 80px;
+  margin-bottom: 0;
+}
+
+h2.degrees-symbol {
+  display: inline;
+  font-size: 80px;
+  margin-bottom: 0;
+}
+h2.current-city {
+  font-size: 25px;
+  margin-bottom: 5px;
+}
+h3 {
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+h4 {
+  display: inline;
+  font-size: 15px;
+  font-weight: 300;
+  margin-bottom: 20px;
+  transition: all 200ms ease-in-out;
+}
+h4:hover {
+  text-decoration: underline;
+  font-weight: 500;
+}
+div.card {
+  background-color: #ffa726;
+  color: #ffff;
+  padding: 20px 20px 5px 20px;
+  margin-bottom: 20px;
+}
+
+div.future-weather {
+  color: #5a6276;
+  display: block;
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 92%;
+}
+div.color-row {
+  background-color: rgba(255, 167, 38, 0.25);
+  border-style: 1px solid rgba(255, 167, 38, 0.25);
+  border-radius: 0.25rem;
+}
+div.col-6,
+div.col-3 {
+  padding: 5px 10px;
+  top: 3px;
+}
+div.col-6 {
+  left: 10px;
+}
+div.future-center {
+  text-align: center;
+}
+i.future-icon {
+  font-size: 36px;
+}
+i.cloud-showers-big {
+  font-size: 90px;
+  position: absolute;
+  top: 35px;
+  right: 30px;
+}
+
+span.celsius-fahrenheit-labels {
+  margin-top: 5px;
+}
